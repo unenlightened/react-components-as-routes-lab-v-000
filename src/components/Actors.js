@@ -1,7 +1,7 @@
 import React from 'react';
 import { actors } from '../data';
 
-const Actor = () => {
+const Actor = ({ name, movies }) => {
   <div>
 
   </div>
