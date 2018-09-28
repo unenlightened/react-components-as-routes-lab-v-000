@@ -1,7 +1,11 @@
 import React from 'react';
 import { actors } from '../data';
 
-const Actor = () =>
+const Actor = () => {
+  <div>
+
+  </div>
+}
 
 const Actors = (props) => {
   return (
